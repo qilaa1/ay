@@ -1,14 +1,14 @@
 const lyrics = [
     {
         text: "...",
-        y: 550,
+        y: 600,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 1000
     },
     {
         text: "Kan Kuarungi tujuh laut samudra",
-        y: 550,
+        y: 600,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 5500
@@ -22,63 +22,63 @@ const lyrics = [
     },
     {
         text: "apapun kan ku lakukan 'tuk dirimu sayangg",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 4000
     },
     {
         text: "Kau Penjaga Hatiku",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3500
     },
     {
         text: "hoo..",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 2000
     },
     {
         text: "Karna bersamamu semua terasa indah",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 5500
     },
     {
         text: "Gundah gulana hatiku telah hancur semua",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 4500
     },
     {
         text: "janji ku takkan kulepas",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 1500
     },
     {
         text: "wahai",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 600,
         duration: 600
     },
     {
         text: "kau bidadari ku dari surga",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3500
     },
     {
         text: "Tuk Selamanyaa",
-        y: 550,
+        y: 450,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3000
@@ -119,6 +119,8 @@ function showLyrics() {
         showLyrics();
     }
 }
+
+const audio = new Audio('Penjagahati.mp3');
 audio.addEventListener('loadedmetadata', function () {
     // Mengatur waktu awal audio pada menit ke-1
     audio.currentTime = 165; // 60 detik setara dengan 1 menit
