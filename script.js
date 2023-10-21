@@ -8,77 +8,77 @@ const lyrics = [
     },
     {
         text: "Kan Kuarungi tujuh laut samudra",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 5500
     },
     {
         text: "Kan ku daki pegunungan Himalaya",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 5000
     },
     {
         text: "apapun kan ku lakukan 'tuk dirimu sayangg",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 4000
     },
     {
         text: "Kau Penjaga Hatiku",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3500
     },
     {
         text: "hoo..",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 2000
     },
     {
         text: "Karna bersamamu semua terasa indah",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 5500
     },
     {
         text: "Gundah gulana hatiku telah hancur semua",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 4500
     },
     {
         text: "janji ku takkan kulepas",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 1500
     },
     {
         text: "wahai",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 600,
         duration: 600
     },
     {
         text: "kau bidadari ku dari surga",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3500
     },
     {
         text: "Tuk Selamanyaa",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 3000
