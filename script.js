@@ -119,8 +119,6 @@ function showLyrics() {
         showLyrics();
     }
 }
-
-const audio = new Audio('Penjagahati.mp3');
 audio.addEventListener('loadedmetadata', function () {
     // Mengatur waktu awal audio pada menit ke-1
     audio.currentTime = 165; // 60 detik setara dengan 1 menit
