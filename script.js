@@ -1,7 +1,7 @@
 const lyrics = [
     {
         text: "...",
-        y: 450,
+        y: 550,
         fromCurrentPosition: false,
         delay: 1000,
         duration: 1000
